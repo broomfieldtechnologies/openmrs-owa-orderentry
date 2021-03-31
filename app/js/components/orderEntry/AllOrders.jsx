@@ -73,7 +73,9 @@ export const AllOrders = ({
       fetchNew={fetchOrders}
       patientId={uuid}
     />
+    {/*
     <button className="cancel" onClick={() => window.location.assign(backLink)}>Return</button>
+    */}
   </div>
 );
 

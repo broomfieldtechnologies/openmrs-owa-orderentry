@@ -360,6 +360,7 @@ export class OrderEntryPage extends PureComponent {
                       />
                     </div>
                   </div>
+                  {/*
                   <div style={{ marginTop: "20px" }}>
                     <button
                       className="cancel"
@@ -373,6 +374,7 @@ export class OrderEntryPage extends PureComponent {
                       Return
                     </button>
                   </div>
+                  */}
                 </div>
               )}
             </div>
